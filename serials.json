@@ -1,13 +1,18 @@
 {
-  "devices": {
-    "80Q6H64": {
+  "devices": [
+    {
+      "serial": "80Q6H64",
       "email": "sudip.prakash@amentumcms.com",
-      "owner": "Sudip",
-      "role": "Admin",
-      "note": "Dell Latitude – South region"
+      "name": "Sudip H Prakash"
     },
-	},
+	{
+      "serial": "HR30574",
+      "email": "santosh.kumarjha@amentumcms.com",
+      "name": ""Santosh Kumar Jha"
+    }
+  ],
   "otp": {
-    "ttl_seconds": 600
+    "length": 6,
+    "valid_minutes": 10
   }
 }
