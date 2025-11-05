@@ -1,0 +1,13 @@
+{
+  "devices": {
+    "80Q6H64": {
+      "email": "sudip.prakash@amentumcms.com",
+      "owner": "Sudip",
+      "role": "Admin",
+      "note": "Dell Latitude – South region"
+    },
+	},
+  "otp": {
+    "ttl_seconds": 600
+  }
+}
